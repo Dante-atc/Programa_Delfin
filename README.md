@@ -1,6 +1,6 @@
 # Ethical Optimization of Stock Portfolios
 
-**Advisor:** Dr. Mario Alberto Navarro Velázquez, University of Guadalajara
+**Advisor:** Dr. Mario Alberto Navarro Velázquez, University of Guadalajara                                    
 **Student:** Dante Alejandro Tostado Cortes, University of Sonora  
 **Contact:** dantetostado@gmail.com
 
