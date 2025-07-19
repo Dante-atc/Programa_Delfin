@@ -50,7 +50,8 @@ One phenomenon observed in the training results was a significantly high Maximum
 
 **Conclusions**
 
-During the development of this project, advanced metaheuristic optimization techniques and quantitative analysis of ESG portfolios were applied. Different evolutionary and bio-inspired algorithms were implemented and compared—such as variants of genetic algorithms, differential evolution, particle swarm, BHMO, simulated annealing, firefly, and CMA-ES—evaluated using an objective function based on maximizing the coefficient of determination R². This metric allowed measuring the capacity of the generated weights to capture portfolio variance, offering a more general and comparable evaluation than other traditional financial metrics.
+During the development of this project, advanced metaheuristic optimization techniques and quantitative analysis of ESG portfolios were applied. Different evolutionary and bio-inspired algorithms were implemented and compared—such as variants of GA, DE, PSO,
+BHMO, SA, FA & CMA-ES—evaluated using an objective function based on maximizing the coefficient of determination R². This metric allowed measuring the capacity of the generated weights to capture portfolio variance, offering a more general and comparable evaluation than other traditional financial metrics.
 
 Despite the high volatility of the training period (2020–2024), which included the COVID-19 crisis, clear differences were observed in the algorithms' performance. Some stood out for their returns and ESG diversification levels, while others, with less adjustment (lower R²), showed greater stability in the 2025 benchmark, which suggests practical applications depending on the investor profile.
 
