@@ -36,7 +36,7 @@ Each algorithm was run 15 times, recording the key metrics: fitness, average ESG
 
 University Center for Exact and Natural Sciences (CUCEI) of the University of Guadalajara, under the direction of Dr. Mario Alberto Navarro Velázquez
 
-**Análisis de Resultados**
+**Result Analyisis**
 
 Among the most notable results, CMA-ES obtained the highest average fitness (77.71%), followed by DE (75.54%), indicating a strong ability to adjust to the benchmark with a good ESG commitment. In sustainability, CMA-ES obtained the lowest average ESG risk score (12.40), where a lower score reflects a lower risk that the company's value will be affected by ESG factors. Typically, companies with low scores can be considered more ethical and environmentally sustainable.
 
