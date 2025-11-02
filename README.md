@@ -59,6 +59,5 @@ In conclusion, metaheuristic techniques proved to be a useful tool for building 
 
 
 Bibliography
-1. Shahvaroughi Farahani, M., Razavi Hajiagha, S.H. Forecasting stock price using integrated artificial neural network and metaheuristic algorithms compared to time series models. Soft Comput 25, 8483–8513 (2021). https://doi.org/10.1007/s00500-021-05775-5
-2. Domínguez, Amparo & Juan, Angel & Kizys, Renatas. (2017). A Survey on Financial Applications of Metaheuristics. ACM Computing Surveys. 50. 1-23. 10.1145/3054133.
-3. Macedo, L.L., Godinho, P. & Alves, M.J. A Comparative Study of Technical Trading Strategies Using a Genetic Algorithm. Comput Econ 55, 349–381 (2020). https://doi.org/10.1007/s10614-016-9641-9
+1. Domínguez, Amparo & Juan, Angel & Kizys, Renatas. (2017). A Survey on Financial Applications of Metaheuristics. ACM Computing Surveys. 50. 1-23. 10.1145/3054133.
+2. Macedo, L.L., Godinho, P. & Alves, M.J. A Comparative Study of Technical Trading Strategies Using a Genetic Algorithm. Comput Econ 55, 349–381 (2020). https://doi.org/10.1007/s10614-016-9641-9
